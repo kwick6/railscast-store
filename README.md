@@ -6,3 +6,4 @@ The solution was to use the gem called "bootstrap-sass", however the gem isn't u
 
 gem 'bootstrap-sass', github: 'thomas-mcdonald/bootstrap-sass'
 
+![Screenshot](https://raw.github.com/kwick6/railscast-store/master/app/assets/images/railscast-store.png)
